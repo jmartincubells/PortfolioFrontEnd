@@ -22,3 +22,19 @@
     --bs-btn-font-size: .80rem;
 }
 
+.carousel_p {
+    height: 25rem;
+    width: 100%;
+}
+
+.education_header {
+    font-size: 4rem;
+}
+.proyect_header{
+    font-size: 4rem;
+}
+.hard_soft {
+    color: white;
+    font-size: 4rem;
+}
+
