@@ -1,0 +1,81 @@
+body {
+    padding-top: 3rem;
+  }
+  @media (max-width: 1200px) {
+    body {
+      padding-top: 4rem;
+    }
+}
+  @media (max-width: 979px) {
+    body {
+      padding-top: 3.5rem;
+    }
+  }
+.navbar {
+    background-color: white;
+}
+
+.banner {
+    height: 25rem;
+    background-color: #0096FF;
+    border-radius: 0%;
+}
+
+.programar_logo_bloque {
+    width: 1rem; 
+    max-height: 2.5rem;
+    padding-left: 1rem;
+    
+}
+
+.programar_logo {
+    height: auto;
+    width: 7.5rem;
+}
+
+.login_btn {
+    --bs-btn-padding-y: .2rem; 
+    --bs-btn-padding-x: .5rem; 
+    --bs-btn-font-size: .80rem;
+}
+
+.carousel_p {
+    margin-top: 1rem;
+    height: 25rem;
+    width: 100%;
+    display: inline-block;
+}
+
+.education_header {
+    font-size: 4rem;
+}
+.proyect_header{
+    font-size: 4rem;
+}
+.hard_soft {
+    color: white;
+    font-size: 4rem;
+}
+
+.portrait {
+    width: 10rem;
+    height: 10rem;
+    margin: 1rem;
+}
+
+.profile_container {
+    margin: 1rem;
+    width: 95%;
+    margin-left: 2.5%;
+    background-color: #0095ffbe;
+}
+
+.grilla {
+    margin-top: 1rem;
+    display: table;
+    width: 95%;
+}
+
+.no-padding {
+    padding: 0 !important;
+}
